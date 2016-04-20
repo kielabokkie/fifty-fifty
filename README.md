@@ -6,3 +6,7 @@
 To run the simulation run the following command:
 
     php app.php gamble
+
+This will run the simulation for 100,000 bets. You can pass an optional parameter if you want to change the number of bets:
+
+    php app.php gamble 1000

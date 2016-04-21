@@ -2,8 +2,7 @@
     "name": "wouter/fifty-fifty",
     "description": "To win or to lose, that's the question",
     "require": {
-        "symfony/console": "^3.0",
-        "fzaninotto/faker": "^1.5"
+        "symfony/console": "^3.0"
     },
     "authors": [
         {
